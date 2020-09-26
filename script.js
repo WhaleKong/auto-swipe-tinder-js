@@ -10,7 +10,7 @@ const swipeTinderJaJa = () => {
     } else {
       closePopupMatch[0].click();
     }
-  }, 5000);
+  }, 2000);
   setTimeout(() => {
     clearInterval(x);
   }, 20000);

@@ -2,4 +2,7 @@
 
 ** script ปัดทินเดอร์ อัตโนมัติ ใช้ภาษา javascript ในการเขียน ** 
 
-วิธีใช้ login tinder คลิกขวา เลือก inspect ไป ที่ console ก๊อปโค้ด ใน ไฟล์ script.js ลงใน console แล้วกด enter
+1.วิธีใช้ login tinder 
+2.คลิกขวา เลือก inspect 
+3.ไป ที่ console ก๊อปโค้ด ใน ไฟล์ script.js ลงใน console 
+4.กด enter

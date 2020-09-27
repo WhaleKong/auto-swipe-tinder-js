@@ -10,6 +10,8 @@
 
 4. กด enter
 
+ปรับช่วงเวลาการปัด ที่ setTimeout parameter ตัวที่สอง ซึ่งตอนนี้เป็น 180000  เท่ากับ 3 นาที
+
 ** automate swipe tinder use javascript **
 
 1. login tinder
